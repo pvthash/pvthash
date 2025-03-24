@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pvthash
 - 👀 I’m interested in ...web development 
-- 🌱 I’m currently learning ...AI so i can optimize my web development
+- 🌱 I’m currently learning ...AI so i can optimize my web 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...harshkumar56586@gmail.com
 - 😄 Pronouns: ...
